@@ -110,7 +110,7 @@ export default function Footer() {
                 <Clock className="w-5 h-5 text-primary shrink-0" />
                 <div>
                   <span className="block text-white uppercase font-bold text-xs tracking-wider">OPENING HOURS</span>
-                  <span className="block mt-0.5">Monday - Sunday: 06:00 AM - 02:00 AM</span>
+                  <span className="block mt-0.5">Monday - Sunday: Open 24 Hours</span>
                 </div>
               </li>
 
