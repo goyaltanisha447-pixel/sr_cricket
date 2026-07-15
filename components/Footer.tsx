@@ -51,7 +51,7 @@ export default function Footer() {
               {/* WhatsApp */}
               <motion.a
                 whileHover={{ y: -3, scale: 1.05 }}
-                href="https://wa.me/15550199"
+                href="https://wa.me/918341029797"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-sm bg-white/5 border border-white/10 flex items-center justify-center text-gray-300 hover:text-primary hover:border-primary transition-colors"
@@ -119,7 +119,7 @@ export default function Footer() {
                 <Phone className="w-5 h-5 text-primary shrink-0" />
                 <div>
                   <span className="block text-white uppercase font-bold text-xs tracking-wider">RESERVATIONS DESK</span>
-                  <span className="block mt-0.5">+1 555-0199 (WhatsApp Available)</span>
+                  <span className="block mt-0.5">+91 83410 29797 (WhatsApp Available)</span>
                 </div>
               </li>
 
@@ -128,7 +128,7 @@ export default function Footer() {
                 <MapPin className="w-5 h-5 text-primary shrink-0" />
                 <div>
                   <span className="block text-white uppercase font-bold text-xs tracking-wider">ARENA LOCATION</span>
-                  <span className="block mt-0.5">Plot 45, VIP Road, Sector 5, Sports City Complex</span>
+                  <span className="block mt-0.5">Rd Number 7, Beside Vikas School, Meerpet, Hyderabad, Telangana 500097</span>
                 </div>
               </li>
 

@@ -25,7 +25,7 @@ const FAQ_ITEMS = [
   },
   {
     question: "What is your cancellation or rescheduling policy?",
-    answer: "We offer free rescheduling or full booking cancellation up to 12 hours before your scheduled slot. You can cancel or move your slot by calling or WhatsApping our support desk at +1 555-0199 with your booking details. Cancellations under 12 hours may be subject to a nominal re-booking fee.",
+    answer: "We offer free rescheduling or full booking cancellation up to 12 hours before your scheduled slot. You can cancel or move your slot by calling or WhatsApping our support desk at +91 83410 29797 with your booking details. Cancellations under 12 hours may be subject to a nominal re-booking fee.",
   },
   {
     question: "Do you have locker rooms, showers, and changing facilities?",

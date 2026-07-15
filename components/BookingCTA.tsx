@@ -190,7 +190,7 @@ export default function BookingCTA() {
                         <input
                           type="tel"
                           name="phone"
-                          placeholder="+1 555-0199"
+                          placeholder="+91 83410 29797"
                           required
                           value={formData.phone}
                           onChange={handleInputChange}
